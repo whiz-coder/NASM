@@ -2,7 +2,7 @@
 NASM Assembler 
 
 
-How to install NASM And DOSBOX(16 Bit Machine) in Ubuntu/Linux
+How to install and use NASM And DOSBOX(16 Bit Machine) in Ubuntu/Linux
 
 First step to download nasm Assembler
 
