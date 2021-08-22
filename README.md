@@ -31,10 +31,10 @@ C:
 For Compiling Assembly code u need to write assembly code and paste in that NASM folder which u paste in home directory
 
 
-nasm (filename.asm) -o (filename.out)
+nasm (filename.asm) -o (filename.com)
 
 then open it in Advance Debbuger by
 
-afd (filename.out)
+afd (filename.com)
 
 And You are done !
